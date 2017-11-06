@@ -1,15 +1,15 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is '/Users/liuthucs/Desktop/test/.texpadtmp/test.blg'
-[49] biber-darwin:290> INFO - === Sat Apr 15, 2017, 20:33:52
-[73] Biber.pm:351> INFO - Reading '/Users/liuthucs/Desktop/test/.texpadtmp/test.bcf'
-[180] Biber.pm:776> INFO - Found 6 citekeys in bib section 0
-[194] Biber.pm:3493> INFO - Processing section 0
-[212] Biber.pm:3657> INFO - Looking for bibtex format file '/Users/liuthucs/Desktop/test/sample.bib' for section 0
-[214] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[214] bibtex.pm:1048> INFO - Found BibTeX data source '/Users/liuthucs/Desktop/test/sample.bib'
-[238] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[239] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[239] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[239] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[244] bbl.pm:526> INFO - Writing '/Users/liuthucs/Desktop/test/.texpadtmp/test.bbl' with encoding 'UTF-8'
-[245] bbl.pm:619> INFO - Output to /Users/liuthucs/Desktop/test/.texpadtmp/test.bbl
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/xuedi/Documents/GitHub/Permutation/Permutation/.texpadtmp/test.blg'
+[39] biber-darwin:303> INFO - === Mon Nov  6, 2017, 11:27:45
+[61] Biber.pm:359> INFO - Reading '/Users/xuedi/Documents/GitHub/Permutation/Permutation/.texpadtmp/test.bcf'
+[157] Biber.pm:835> INFO - Found 5 citekeys in bib section 0
+[169] Biber.pm:3670> INFO - Processing section 0
+[183] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/xuedi/Documents/GitHub/Permutation/Permutation/sample.bib' for section 0
+[185] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[188] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/xuedi/Documents/GitHub/Permutation/Permutation/sample.bib'
+[206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[206] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[206] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[211] bbl.pm:608> INFO - Writing '/Users/xuedi/Documents/GitHub/Permutation/Permutation/.texpadtmp/test.bbl' with encoding 'UTF-8'
+[211] bbl.pm:712> INFO - Output to /Users/xuedi/Documents/GitHub/Permutation/Permutation/.texpadtmp/test.bbl

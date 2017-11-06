@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.7)  1 NOV 2017 19:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.7)  3 NOV 2017 18:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -50,20 +50,17 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count97
 \c__fp_Bigg_middle_shift_int=\count98
 \c__fp_Bigg_trailing_shift_int=\count99
-\c__fp_rand_size_int=\count100
-\c__fp_rand_four_int=\count101
-\c__fp_rand_eight_int=\count102
-\l__sort_length_int=\count103
-\l__sort_min_int=\count104
-\l__sort_top_int=\count105
-\l__sort_max_int=\count106
-\l__sort_true_max_int=\count107
-\l__sort_block_int=\count108
-\l__sort_begin_int=\count109
-\l__sort_end_int=\count110
-\l__sort_A_int=\count111
-\l__sort_B_int=\count112
-\l__sort_C_int=\count113
+\l__sort_length_int=\count100
+\l__sort_min_int=\count101
+\l__sort_top_int=\count102
+\l__sort_max_int=\count103
+\l__sort_true_max_int=\count104
+\l__sort_block_int=\count105
+\l__sort_begin_int=\count106
+\l__sort_end_int=\count107
+\l__sort_A_int=\count108
+\l__sort_B_int=\count109
+\l__sort_C_int=\count110
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -104,19 +101,18 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen130
 \l__coffin_scaled_total_height_dim=\dimen131
 \l__coffin_scaled_width_dim=\dimen132
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count114
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \l__driver_tmp_box=\box41
 ))
 Document Class: ctexart 2017/04/01 v2.4.9 Chinese adapter for class article (CTEX)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count115
-\g__xparse_grabber_int=\count116
-\l__xparse_m_args_int=\count117
-\l__xparse_mandatory_args_int=\count118
-\l__xparse_v_nesting_int=\count119
+\l__xparse_current_arg_int=\count111
+\g__xparse_grabber_int=\count112
+\l__xparse_m_args_int=\count113
+\l__xparse_mandatory_args_int=\count114
+\l__xparse_v_nesting_int=\count115
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 )
@@ -132,7 +128,7 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\l__ctex_tmp_int=\count120
+\l__ctex_tmp_int=\count116
 \l__ctex_tmp_box=\box42
 \l__ctex_tmp_dim=\dimen133
  (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
@@ -142,69 +138,783 @@ Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count121
-\c@section=\count122
-\c@subsection=\count123
-\c@subsubsection=\count124
-\c@paragraph=\count125
-\c@subparagraph=\count126
-\c@figure=\count127
-\c@table=\count128
+\c@part=\count117
+\c@section=\count118
+\c@subsection=\count119
+\c@subsubsection=\count120
+\c@paragraph=\count121
+\c@subparagraph=\count122
+\c@figure=\count123
+\c@table=\count124
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
-File: ctex-engine-pdftex.def 2017/04/01 v2.4.9 (pdf)LaTeX adapter (CTEX)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-Package: CJK 2015/04/18 4.8.4
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
-Package: MULEenc 2015/04/18 4.8.4
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.enc
-File: CJK.enc 2015/04/18 4.8.4
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2017/04/01 v2.4.9 XeLaTeX adapter (CTEX)
+ (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2017/05/15 v3.4.8 Typesetting CJK scripts with XeLaTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2017/05/13 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen135
+\l__xtemplate_tmp_int=\count125
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
 )
-LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box43
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
-Package: CJKpunct 2016/05/14 4.8.4
-\CJKpunct@cnta=\count129
-\CJKpunct@cntb=\count130
-\CJKpunct@cntc=\count131
-\CJKpunct@cntd=\count132
-\CJKpunct@cnte=\count133
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
-Package: CJKspace 2015/04/18 3.8.0
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/standard.bdg
-File: standard.bdg 2015/04/18 4.8.4
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexspa.def
-File: ctexspa.def 2017/04/01 v2.4.9 Space info for CJKpunct (CTEX)
+\l__xeCJK_tmp_int=\count126
+\l__xeCJK_tmp_box=\box43
+\l__xeCJK_tmp_dim=\dimen136
+\l__xeCJK_tmp_skip=\skip50
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKShipoutHook with sig. '' on line 148.
+.................................................
+\g__xeCJK_spacefactor_int=\count127
+\l__xeCJK_begin_int=\count128
+\l__xeCJK_end_int=\count129
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKactive with sig. '' on line 377.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKinactive with sig. '' on line 378.
+.................................................
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareCharClass with sig. 's>{\TrimSpaces }mm' on
+. line 542.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_set_char_class_aux:Nnw with sig.
+. 'm>{\SplitArgument {1}{->}}m' on line 563.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \normalspacedchars with sig. 'm' on line 608.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetPunctClass with sig. '' on line 619.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetCharClass with sig. '' on line 631.
+.................................................
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count130
+\c__xeCJK_CJK_node_dim=\dimen137
+\c__xeCJK_CJK-space_node_dim=\dimen138
+\c__xeCJK_default_node_dim=\dimen139
+\c__xeCJK_default-space_node_dim=\dimen140
+\c__xeCJK_CJK-widow_node_dim=\dimen141
+\c__xeCJK_normalspace_node_dim=\dimen142
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreak with sig. '' on line 1470.
+.................................................
+\l__xeCJK_widow_penalty_int=\count131
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareSubCJKBlock with sig. 's>{\TrimSpaces }mm' on
+. line 1666.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKCancelSubCJKBlock with sig. 'sm' on line 1677.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKRestoreSubCJKBlock with sig. 'sm' on line 1686.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetwidth with sig. 'smm' on line 1784.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetkern with sig. 'mmm' on line 1788.
+.................................................
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 1925.
+.................................................
+\l__xeCJK_fixed_punct_width_dim=\dimen143
+\l__xeCJK_mixed_punct_width_dim=\dimen144
+\l__xeCJK_middle_punct_width_dim=\dimen145
+\l__xeCJK_fixed_margin_width_dim=\dimen146
+\l__xeCJK_mixed_margin_width_dim=\dimen147
+\l__xeCJK_middle_margin_width_dim=\dimen148
+\l__xeCJK_bound_punct_width_dim=\dimen149
+\l__xeCJK_bound_margin_width_dim=\dimen150
+\l__xeCJK_margin_minimum_dim=\dimen151
+\l__xeCJK_kerning_total_width_dim=\dimen152
+\l__xeCJK_same_align_margin_dim=\dimen153
+\l__xeCJK_different_align_margin_dim=\dimen154
+\l__xeCJK_kerning_margin_width_dim=\dimen155
+\l__xeCJK_kerning_margin_minimum_dim=\dimen156
+\l__xeCJK_bound_dim=\dimen157
+\l__xeCJK_reverse_bound_dim=\dimen158
+\l__xeCJK_minimum_bound_dim=\dimen159
+\l__xeCJK_kerning_margin_dim=\dimen160
+\l__xeCJK_original_margin_dim=\dimen161
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclarePunctStyle with sig. '>{\TrimSpaces }mm' on
+. line 2423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKEditPunctStyle with sig. '>{\TrimSpaces }mm' on line
+. 2436.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 2528.
+.................................................
+\g__xeCJK_family_int=\count132
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfamily with sig. 't+t-m' on line 2955.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_gobble_CJKfamily:wn with sig. 't+t-m' on line
+. 2969.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_post_arg:w with sig. 'mmmO{}' on line 3028.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmainfont with sig. 'om' on line 3034.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKsansfont with sig. 'om' on line 3041.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmonofont with sig. 'om' on line 3047.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfamilyfont with sig. 'mom' on line 3058.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newCJKfontfamily with sig. 'omom' on line 3066.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfontspec with sig. 'om' on line 3072.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultCJKfontfeatures with sig. 'm' on line 3095.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addCJKfontfeatures with sig. 'sO{}m' on line 3101.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmathfont with sig. 'om' on line 3275.
+.................................................
+\l__xeCJK_fam_int=\count133
+\g__xeCJK_fam_allocation_int=\count134
+\l__xeCJK_verb_case_int=\count135
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKVerbAddon with sig. '' on line 3515.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKOffVerbAddon with sig. '' on line 3519.
+.................................................
+\l__xeCJK_verb_exspace_skip=\skip54
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count136
+\l__fontspec_language_int=\count137
+\l__fontspec_strnum_int=\count138
+\l__fontspec_tmp_int=\count139
+\l__fontspec_em_int=\count140
+\l__fontspec_emdef_int=\count141
+\l__fontspec_strong_int=\count142
+\l__fontspec_strongdef_int=\count143
+\l__fontspec_tmpa_dim=\dimen162
+\l__fontspec_tmpb_dim=\dimen163
+\l__fontspec_tmpc_dim=\dimen164
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 472.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 483.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 503.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 543.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 547.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 555.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 563.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 571.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 603.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 645.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 672.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 686.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 700.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 720.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 724.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 745.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 778.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 782.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 786.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 797.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3438.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3444.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3450.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3456.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3462.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3487.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3493.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3501.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3686.
+LaTeX Info: Redefining \slshape on input line 3691.
+LaTeX Info: Redefining \scshape on input line 3696.
+LaTeX Info: Redefining \upshape on input line 3701.
+LaTeX Info: Redefining \em on input line 3731.
+LaTeX Info: Redefining \emph on input line 3756.
+LaTeX Info: Redefining \- on input line 3807.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 3902.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 3906.
+.................................................
+)) (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+Package: xunicode-addon 2017/05/15 v3.4.8 addon file for xunicode
+ (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count144
+\tipasavetokens=\toks14
+\tipachecktokens=\toks15
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/JK)
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+))
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \ReloadXunicode with sig. 'm' on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFmathsymbols with sig. 'm' on line 129.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UseMathAsText with sig. '' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UndeclareUTFcharacter with sig. 'O{\UTFencname }mm' on
+. line 173.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \UndeclareUTFcomposite with sig. 'O{\UTFencname }mmm' on
+. line 180.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFcharacter with sig. 'O{\UTFencname }mm' on
+. line 207.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFSymbol with sig. 'mO{\UTFencname }m' on line
+. 233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCommand with sig. 'mO{\UTFencname }m' on line
+. 235.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareUTFcomposite with sig. 'O{\UTFencname }mmm' on
+. line 278.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCompositeCommand with sig. 'mO{\UTFencname }mm'
+. on line 291.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFCompositeSymbol with sig. 'mO{\UTFencname }mm'
+. on line 296.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFComposite with sig. 'mO{\UTFencname }' on line
+. 298.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedAccent with sig. 'mO{\UTFencname }mm' on
+. line 300.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedAccents with sig. 'mO{\UTFencname }mm' on
+. line 302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedSymbol with sig. 'mO{\UTFencname }mm' on
+. line 304.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFEncodedCircle with sig. 'mO{\UTFencname }mm' on
+. line 306.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareEncodedCompositeCharacter with sig. 'mmmm' on
+. line 308.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \DeclareEncodedCompositeAccents with sig. 'mmmm' on line
+. 310.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFDoubleEncodedAccent with sig. 'mO{\UTFencname
+. }mm' on line 312.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFDoubleEncodedSymbol with sig. 'mO{\UTFencname
+. }mm' on line 314.
+.................................................
+\l__xunadd_tmp_coffin=\box44
+\l__xunadd_circle_coffin=\box45
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \settextcircledratio with sig. 'm' on line 465.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \AtBeginUTFCommand with sig. 'sO{}+m' on line 534.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \AtEndUTFCommand with sig. 'sO{}+m' on line 544.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUTFTIPACommand with sig. 'O{\UTFencname }m' on line
+. 576.
+.................................................
+) (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
+
+*** Reloading Xunicode for encoding 'TU' ***
+) (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def
+File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetup with sig. '+m' on line 3820.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetemboldenfactor with sig. 'm' on line 3822.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetslantfactor with sig. 'm' on line 3824.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \punctstyle with sig. 'm' on line 3825.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKplainchr with sig. '' on line 3826.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKsetecglue with sig. 'm' on line 3827.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKspace with sig. '' on line 3829.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKnospace with sig. '' on line 3830.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKallowbreakbetweenpuncts with sig. '' on line 3832.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreakbetweenpuncts with sig. '' on line 3834.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKenablefallback with sig. '' on line 3836.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKdisablefallback with sig. '' on line 3838.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetcharclass with sig. 'mmm' on line 3843.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \nobreakspace with sig. '' on line 3989.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \fontfamily with sig. 'm' on line 4029.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
+)) (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2017/05/15 v3.4.8 xeCJK font effect
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box46
+\UL@hyphenbox=\box47
+\UL@skip=\skip55
+\UL@hook=\toks17
+\UL@height=\dimen167
+\UL@pe=\count145
+\UL@pixel=\dimen168
+\ULC@box=\box48
+Package: ulem 2012/05/18
+\ULdepth=\dimen169
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks18
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
 Package: CJKfntef 2015/04/18 4.8.4
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
-Package: CJKulem 2015/04/18 4.8.4
- (/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box44
-\UL@hyphenbox=\box45
-\UL@skip=\skip49
-\UL@hook=\toks14
-\UL@height=\dimen135
-\UL@pe=\count134
-\UL@pixel=\dimen136
-\ULC@box=\box46
-Package: ulem 2012/05/18
-\ULdepth=\dimen137
+\CJK@fntefSkip=\skip56
+\CJK@nest=\count146
+\CJK@fntefDimen=\dimen170
+\CJK@underdotBox=\box49
+\CJK@ULbox=\box50
+\CJK@underanyskip=\dimen171
 )
-\UL@lastkern=\dimen138
-\CJK@skip=\skip50
+\l__xeCJK_space_skip=\skip57
+\c__xeCJK_ulem-begin_node_dim=\dimen172
+\c__xeCJK_null_box=\box51
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKfntefon with sig. 'st-so' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderline with sig. 'st-so' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \varCJKunderline with sig. '' on line 632.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderwave with sig. 'st-so' on line 642.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdblline with sig. 'st-so' on line 666.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKsout with sig. 'st-so' on line 685.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKxout with sig. 'st-so' on line 702.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanyline with sig. 'st-somm' on line 723.
+.................................................
+\l__xeCJK_fntef_box=\box52
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 903.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdot with sig. 'om' on line 912.
+.................................................
+\l__xeCJK_under_symbol_box=\box53
+.................................................
+. LaTeX info: "xparse/redefine-environment"
+. 
+. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1016.
+.................................................
+\c__xeCJK_filll_skip=\skip58
 )
-\CJK@fntefSkip=\skip51
-\CJK@nest=\count135
-\CJK@fntefDimen=\dimen139
-\CJK@underdotBox=\box47
-\CJK@ULbox=\box48
-\CJK@underanyskip=\dimen140
-)
-\ccwd=\dimen141
-\l__ctex_ccglue_skip=\skip52
+\ccwd=\dimen173
+\l__ctex_ccglue_skip=\skip59
 )
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -231,7 +941,7 @@ Package: ulem 2012/05/18
 . 
 . Defining command \ziju with sig. 'm' on line 489.
 .................................................
-\l__ctex_ziju_dim=\dimen142
+\l__ctex_ziju_dim=\dimen174
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -289,22 +999,20 @@ Package: zhnumber 2016/05/14 v2.4 Typesetting numbers with Chinese glyphs
 . 
 . Defining command \zhdate with sig. '+s+m' on line 384.
 .................................................
-\l__zhnum_scale_int=\count136
+\l__zhnum_scale_int=\count147
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
 . line 506.
 .................................................
-\l__zhnum_byte_min_int=\count137
-\l__zhnum_byte_max_int=\count138
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \zhnumsetup with sig. '+m' on line 938.
 .................................................
- (/usr/local/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
-File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2016/05/14 v2.4 Chinese numerals with UTF8 encoding
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -322,7 +1030,7 @@ File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
 . Defining command \ctex_assign_heading_name:nn with sig. 'm>{\SplitArgument
 . {\c_one }{,}}+m' on line 686.
 .................................................
-\l__ctex_heading_skip=\skip53
+\l__ctex_heading_skip=\skip60
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -335,8 +1043,8 @@ File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
 .................................................
  (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
 File: ctex-scheme-chinese-article.def 2017/04/01 v2.4.9 Chinese scheme for article (CTEX)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
-File: ctex-name-gbk.cfg 2017/04/01 v2.4.9 Caption with encoding GBK (CTEX)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2017/04/01 v2.4.9 Caption with encoding UTF8 (CTEX)
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -354,84 +1062,103 @@ File: ctex-c5size.clo 2017/04/01 v2.4.9 c5size option (CTEX)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
 File: ctex-fontset-mac.def 2017/04/01 v2.4.9 Mac OS X fonts definition (CTEX)
 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def:47: Critical ctex error: "fontset-unavailable"
-! 
-! CTeX fontset `mac' is unavailable in current mode.
-! 
-! See the ctex documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.47   }
-        
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| Reading the current file 'ctex-fontset-mac.def' will stop.
-|...............................................
-
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'STSong' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_STSong_int=\count148
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STKaiti/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STHeiti/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STSong/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STSong(0)' created for font 'STSong' with options
+. [Script={CJK},BoldFont={STHeiti},ItalicFont={STKaiti}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"STSong/OT"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"STHeiti/OT"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"STKaiti/OT"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \songti with sig. '' on line 48.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \heiti with sig. '' on line 49.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fangsong with sig. '' on line 50.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kaishu with sig. '' on line 51.
+.................................................
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2017/04/01 v2.4.9 Configuration file (CTEX)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen143
-\extrarowheight=\dimen144
-\NC@list=\toks15
-\extratabsurround=\skip54
-\backup@length=\skip55
+\col@sep=\dimen175
+\extrarowheight=\dimen176
+\NC@list=\toks19
+\extratabsurround=\skip61
+\backup@length=\skip62
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 99.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
- (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count139
-))
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count140
-\rotFPtop=\skip56
-\rotFPbot=\skip57
-\rot@float@box=\box49
-\rot@mess@toks=\toks17
+\c@r@tfl@t=\count149
+\rotFPtop=\skip63
+\rotFPbot=\skip64
+\rot@float@box=\box54
+\rot@mess@toks=\toks20
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count141
+\etb@tempcnta=\count150
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
@@ -444,147 +1171,147 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))) (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count142
+\lrq@indent=\count151
  (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count143
-\decimalpart=\count144
+\integerpart=\count152
+\decimalpart=\count153
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count145
-\c@listtotal=\count146
-\c@listcount=\count147
-\c@liststart=\count148
-\c@liststop=\count149
-\c@citecount=\count150
-\c@citetotal=\count151
-\c@multicitecount=\count152
-\c@multicitetotal=\count153
-\c@instcount=\count154
-\c@maxnames=\count155
-\c@minnames=\count156
-\c@maxitems=\count157
-\c@minitems=\count158
-\c@citecounter=\count159
-\c@savedcitecounter=\count160
-\c@uniquelist=\count161
-\c@uniquename=\count162
-\c@refsection=\count163
-\c@refsegment=\count164
-\c@maxextratitle=\count165
-\c@maxextratitleyear=\count166
-\c@maxextrayear=\count167
-\c@maxextraalpha=\count168
-\c@abbrvpenalty=\count169
-\c@highnamepenalty=\count170
-\c@lownamepenalty=\count171
-\c@maxparens=\count172
-\c@parenlevel=\count173
-\blx@tempcnta=\count174
-\blx@tempcntb=\count175
-\blx@tempcntc=\count176
-\blx@maxsection=\count177
-\blx@maxsegment@0=\count178
-\blx@notetype=\count179
-\blx@parenlevel@text=\count180
-\blx@parenlevel@foot=\count181
-\blx@sectionciteorder@0=\count182
-\labelnumberwidth=\skip58
-\labelalphawidth=\skip59
-\biblabelsep=\skip60
-\bibitemsep=\skip61
-\bibnamesep=\skip62
-\bibinitsep=\skip63
-\bibparsep=\skip64
-\bibhang=\skip65
+\c@tabx@nest=\count154
+\c@listtotal=\count155
+\c@listcount=\count156
+\c@liststart=\count157
+\c@liststop=\count158
+\c@citecount=\count159
+\c@citetotal=\count160
+\c@multicitecount=\count161
+\c@multicitetotal=\count162
+\c@instcount=\count163
+\c@maxnames=\count164
+\c@minnames=\count165
+\c@maxitems=\count166
+\c@minitems=\count167
+\c@citecounter=\count168
+\c@savedcitecounter=\count169
+\c@uniquelist=\count170
+\c@uniquename=\count171
+\c@refsection=\count172
+\c@refsegment=\count173
+\c@maxextratitle=\count174
+\c@maxextratitleyear=\count175
+\c@maxextrayear=\count176
+\c@maxextraalpha=\count177
+\c@abbrvpenalty=\count178
+\c@highnamepenalty=\count179
+\c@lownamepenalty=\count180
+\c@maxparens=\count181
+\c@parenlevel=\count182
+\blx@tempcnta=\count183
+\blx@tempcntb=\count184
+\blx@tempcntc=\count185
+\blx@maxsection=\count186
+\blx@maxsegment@0=\count187
+\blx@notetype=\count188
+\blx@parenlevel@text=\count189
+\blx@parenlevel@foot=\count190
+\blx@sectionciteorder@0=\count191
+\labelnumberwidth=\skip65
+\labelalphawidth=\skip66
+\biblabelsep=\skip67
+\bibitemsep=\skip68
+\bibnamesep=\skip69
+\bibinitsep=\skip70
+\bibparsep=\skip71
+\bibhang=\skip72
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count183
-\c@maxcomprange=\count184
-\c@mincompwidth=\count185
+\c@mincomprange=\count192
+\c@maxcomprange=\count193
+\c@mincompwidth=\count194
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count186
-\c@savedafterword=\count187
-\c@annotator=\count188
-\c@savedannotator=\count189
-\c@author=\count190
-\c@savedauthor=\count191
-\c@bookauthor=\count192
-\c@savedbookauthor=\count193
-\c@commentator=\count194
-\c@savedcommentator=\count195
-\c@editor=\count196
-\c@savededitor=\count197
-\c@editora=\count198
-\c@savededitora=\count199
-\c@editorb=\count266
-\c@savededitorb=\count267
-\c@editorc=\count268
-\c@savededitorc=\count269
-\c@foreword=\count270
-\c@savedforeword=\count271
-\c@holder=\count272
-\c@savedholder=\count273
-\c@introduction=\count274
-\c@savedintroduction=\count275
-\c@namea=\count276
-\c@savednamea=\count277
-\c@nameb=\count278
-\c@savednameb=\count279
-\c@namec=\count280
-\c@savednamec=\count281
-\c@translator=\count282
-\c@savedtranslator=\count283
-\c@shortauthor=\count284
-\c@savedshortauthor=\count285
-\c@shorteditor=\count286
-\c@savedshorteditor=\count287
-\c@labelname=\count288
-\c@savedlabelname=\count289
-\c@institution=\count290
-\c@savedinstitution=\count291
-\c@lista=\count292
-\c@savedlista=\count293
-\c@listb=\count294
-\c@savedlistb=\count295
-\c@listc=\count296
-\c@savedlistc=\count297
-\c@listd=\count298
-\c@savedlistd=\count299
-\c@liste=\count300
-\c@savedliste=\count301
-\c@listf=\count302
-\c@savedlistf=\count303
-\c@location=\count304
-\c@savedlocation=\count305
-\c@organization=\count306
-\c@savedorganization=\count307
-\c@origlocation=\count308
-\c@savedoriglocation=\count309
-\c@origpublisher=\count310
-\c@savedorigpublisher=\count311
-\c@publisher=\count312
-\c@savedpublisher=\count313
-\c@language=\count314
-\c@savedlanguage=\count315
-\c@pageref=\count316
-\c@savedpageref=\count317
-\shorthandwidth=\skip66
-\shortjournalwidth=\skip67
-\shortserieswidth=\skip68
-\shorttitlewidth=\skip69
-\shortauthorwidth=\skip70
-\shorteditorwidth=\skip71
+\c@afterword=\count195
+\c@savedafterword=\count196
+\c@annotator=\count197
+\c@savedannotator=\count198
+\c@author=\count199
+\c@savedauthor=\count266
+\c@bookauthor=\count267
+\c@savedbookauthor=\count268
+\c@commentator=\count269
+\c@savedcommentator=\count270
+\c@editor=\count271
+\c@savededitor=\count272
+\c@editora=\count273
+\c@savededitora=\count274
+\c@editorb=\count275
+\c@savededitorb=\count276
+\c@editorc=\count277
+\c@savededitorc=\count278
+\c@foreword=\count279
+\c@savedforeword=\count280
+\c@holder=\count281
+\c@savedholder=\count282
+\c@introduction=\count283
+\c@savedintroduction=\count284
+\c@namea=\count285
+\c@savednamea=\count286
+\c@nameb=\count287
+\c@savednameb=\count288
+\c@namec=\count289
+\c@savednamec=\count290
+\c@translator=\count291
+\c@savedtranslator=\count292
+\c@shortauthor=\count293
+\c@savedshortauthor=\count294
+\c@shorteditor=\count295
+\c@savedshorteditor=\count296
+\c@labelname=\count297
+\c@savedlabelname=\count298
+\c@institution=\count299
+\c@savedinstitution=\count300
+\c@lista=\count301
+\c@savedlista=\count302
+\c@listb=\count303
+\c@savedlistb=\count304
+\c@listc=\count305
+\c@savedlistc=\count306
+\c@listd=\count307
+\c@savedlistd=\count308
+\c@liste=\count309
+\c@savedliste=\count310
+\c@listf=\count311
+\c@savedlistf=\count312
+\c@location=\count313
+\c@savedlocation=\count314
+\c@organization=\count315
+\c@savedorganization=\count316
+\c@origlocation=\count317
+\c@savedoriglocation=\count318
+\c@origpublisher=\count319
+\c@savedorigpublisher=\count320
+\c@publisher=\count321
+\c@savedpublisher=\count322
+\c@language=\count323
+\c@savedlanguage=\count324
+\c@pageref=\count325
+\c@savedpageref=\count326
+\shorthandwidth=\skip73
+\shortjournalwidth=\skip74
+\shortserieswidth=\skip75
+\shorttitlewidth=\skip76
+\shortauthorwidth=\skip77
+\shorteditorwidth=\skip78
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -594,13 +1321,13 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count318
-\c@textcitetotal=\count319
-\c@textcitemaxnames=\count320
-\c@biburlnumpenalty=\count321
-\c@biburlucpenalty=\count322
-\c@biburllcpenalty=\count323
-\c@smartand=\count324
+\c@textcitecount=\count327
+\c@textcitetotal=\count328
+\c@textcitemaxnames=\count329
+\c@biburlnumpenalty=\count330
+\c@biburlucpenalty=\count331
+\c@biburllcpenalty=\count332
+\c@smartand=\count333
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -608,11 +1335,10 @@ Package biblatex Info: ... file 'numeric.bbx' found.
 File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count325
-\c@bbx:relatedtotal=\count326
+\c@bbx:relatedcount=\count334
+\c@bbx:relatedtotal=\count335
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -636,597 +1362,94 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
-\@mathmargin=\skip72
+\@mathmargin=\skip79
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
-\ex@=\dimen147
+\@emptytoks=\toks21
+\ex@=\dimen177
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen148
+\pmbraise@=\dimen178
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count327
+\inf@bad=\count336
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count328
-\leftroot@=\count329
+\uproot@=\count337
+\leftroot@=\count338
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count330
-\DOTSCASE@=\count331
+\classnum@=\count339
+\DOTSCASE@=\count340
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen149
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen179
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count332
-\c@MaxMatrixCols=\count333
-\dotsspace@=\muskip17
-\c@parentequation=\count334
-\dspbrk@lvl=\count335
-\tag@help=\toks19
-\row@=\count336
-\column@=\count337
-\maxfields@=\count338
-\andhelp@=\toks20
-\eqnshift@=\dimen150
-\alignsep@=\dimen151
-\tagshift@=\dimen152
-\tagwidth@=\dimen153
-\totwidth@=\dimen154
-\lineht@=\dimen155
-\@envbody=\toks21
-\multlinegap=\skip73
-\multlinetaggap=\skip74
-\mathdisplay@stack=\toks22
+\macc@depth=\count341
+\c@MaxMatrixCols=\count342
+\dotsspace@=\muskip18
+\c@parentequation=\count343
+\dspbrk@lvl=\count344
+\tag@help=\toks22
+\row@=\count345
+\column@=\count346
+\maxfields@=\count347
+\andhelp@=\toks23
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks24
+\multlinegap=\skip80
+\multlinetaggap=\skip81
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count339
-\c@ALC@line=\count340
-\c@ALC@rem=\count341
-\c@ALC@depth=\count342
-\ALC@tlm=\skip75
-\algorithmicindent=\skip76
+\c@ALC@unique=\count348
+\c@ALC@line=\count349
+\c@ALC@rem=\count350
+\c@ALC@depth=\count351
+\ALC@tlm=\skip82
+\algorithmicindent=\skip83
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count343
-\float@exts=\toks23
-\float@box=\box52
-\@float@everytoks=\toks24
-\@floatcapt=\box53
+\c@float@type=\count352
+\float@exts=\toks26
+\float@box=\box57
+\@float@everytoks=\toks27
+\@floatcapt=\box58
 )
-\@float@every@algorithm=\toks25
-\c@algorithm=\count344
+\@float@every@algorithm=\toks28
+\c@algorithm=\count353
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count345
-\@quotereset=\count346
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.enc
-File: extended.enc 2015/04/18 4.8.4
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.chr
-File: extended.chr 2015/04/18 4.8.4
-)
+\@quotelevel=\count354
+\@quotereset=\count355
+
 
 LaTeX Warning: Unused global option(s):
     [6pt].
 
-(/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing \endcsname inserted.
-<to be read again> 
-                   \CJK@disableMakeUppercase 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Argument of \CJK@XX has an extra }.
-<inserted text> 
-                \par 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-LaTeX Font Info:    Try loading font information for C19+song on input line 45.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/GB/c19song.fd
-File: c19song.fd 2015/04/18 4.8.4
-)<<c1939.cmap>>
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<<c1977.cmap>>
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1975.cmap>><<c1930.cmap>><<c1910.cmap>><<c1917.cmap>>
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Undefined control sequence.
-<recently read> �
-                 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1914.cmap>><<c1945.cmap>><<c1938.cmap>><<c1934.cmap>><<c1976.cmap>><<c1916.cmap>><<c1929.cmap>><<c1942.cmap>><<c1903.cmap>><<c1905.cmap>><<c1901.cmap>>
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Undefined control sequence.
-<recently read> �
-                 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Extra \endcsname.
-<recently read> \endcsname 
-                           
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I'm ignoring this, since I wasn't doing a \csname.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.45 ...�算法教学中的重要性}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing \endcsname inserted.
-<to be read again> 
-                   \CJK@disableMakeUppercase 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Argument of \CJK@XX has an extra }.
-<inserted text> 
-                \par 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-<<c1911.cmap>>
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1915.cmap>><<c1912.cmap>><<c1921.cmap>><<c1909.cmap>><<c1919.cmap>><<c1943.cmap>>
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Extra \endcsname.
-<recently read> \endcsname 
-                           
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I'm ignoring this, since I wasn't doing a \csname.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Bad character code (-30).
-<argument> \@tempcnta 
-                      
-l.46 ...�克莱姆法则中的应用}{nty/global/}
-                                                  
-A character number must be between 0 and 255.
-I changed this one to zero.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing \endcsname inserted.
-<to be read again> 
-                   \CJK@disableMakeUppercase 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Argument of \CJK@XX has an extra }.
-<inserted text> 
-                \par 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<<c1974.cmap>>
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1946.cmap>><<c1906.cmap>>
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Extra \endcsname.
-<recently read> \endcsname 
-                           
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I'm ignoring this, since I wasn't doing a \csname.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
-
-/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
-<to be read again> 
-                   \endcsname 
-l.47 ...东2008算法设计与分析}{nty/global/}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-)
+(/Users/xuedi/Documents/GitHub/Permutation/project 1/.texpadtmp/test.aux)
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -1237,1718 +1460,167 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 18.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
 LaTeX Font Info:    ... okay on input line 18.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 18.
- (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-Underfull \hbox (badness 10000) in paragraph at lines 47--13
-[]\C19/song/m/n/10.53937/09 ^^Q \C19/song/m/n/10.53937/19 " \C19/song/m/n/10.53937/74 �\OT1/cmr/m/n/10.53937 008\C19/song/m/n/10.53937/77 ! \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/38 p \C19/song/m/n/10.53937/77 � \C19/song/m/n/10.53937/46 � \C19/song/m/n/10.53937/34 � \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/11 J \C19/song/m/n/10.53937/06 w \C19/song/m/n/10.53937/76 S
- []
-
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count347
-\scratchdimen=\dimen156
-\scratchbox=\box54
-\nofMPsegments=\count348
-\nofMParguments=\count349
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count350
-\MPscratchDim=\dimen157
-\MPnumerator=\count351
-\makeMPintoPDFobject=\count352
-\everyMPtoPDFconversion=\toks27
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Package biblatex Info: No input encoding detected.
-(biblatex)             Assuming 'ascii'.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 18.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 18.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 18.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 18.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 18.
+LaTeX Font Info:    Redeclaring math accent \check on input line 18.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 18.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 18.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 18.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 18.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'ascii'.
+(biblatex)             Assuming data encoding 'utf8'.
 \openout4 = `test.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'test.bbl' is wrong format version - expected 2.8.
-
 Package biblatex Info: ... file 'test.bbl' found.
-(/Users/xuedi/Desktop/project 1/.texpadtmp/test.bbl)
+ (/Users/xuedi/Documents/GitHub/Permutation/project 1/.texpadtmp/test.bbl)
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-]<<c1920.cmap>><<c1923.cmap>>
-Runaway argument?
-./test.tex:24: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.24 \maketitle
-               
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-<<c1918.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
-<<c1973.cmap>><<c1922.cmap>>
-./test.tex:24: Undefined control sequence.
-<recently read> �
-                 
-l.24 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:24: Improper alphabetic constant.
-<to be read again> 
-                   \footnote 
-l.24 \maketitle
-               
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-./test.tex:24: Missing = inserted for \ifnum.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-I was expecting to see `<', `=', or `>'. Didn't.
-
-./test.tex:24: Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./test.tex:24: Improper alphabetic constant.
-<to be read again> 
-                   \footnote 
-l.24 \maketitle
-               
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-./test.tex:24: Missing = inserted for \ifnum.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-I was expecting to see `<', `=', or `>'. Didn't.
-
-./test.tex:24: Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./test.tex:24: Improper alphabetic constant.
-<to be read again> 
-                   \footnote 
-l.24 \maketitle
-               
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-./test.tex:24: Improper alphabetic constant.
-<to be read again> 
-                   \footnote 
-l.24 \maketitle
-               
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-./test.tex:24: Missing = inserted for \ifnum.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-I was expecting to see `<', `=', or `>'. Didn't.
-
-./test.tex:24: Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./test.tex:24: Improper alphabetic constant.
-<to be read again> 
-                   \footnote 
-l.24 \maketitle
-               
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-./test.tex:24: Missing = inserted for \ifnum.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-I was expecting to see `<', `=', or `>'. Didn't.
-
-./test.tex:24: Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.24 \maketitle
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-<<c1924.cmap>>
-./test.tex:24: Bad character code (-204).
-<argument> \@tempcnta 
-                      
-l.24 \maketitle
-               
-A character number must be between 0 and 255.
-I changed this one to zero.
-
-
-./test.tex:24: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \maketitle
-               
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1913.cmap>><<c1904.cmap>><<c1925.cmap>>
-Package CJKpunct Info: punctuation spaces for family 'song' do not exist. Use family 'def' instead. on input line 24.
-
-./test.tex:24: Undefined control sequence.
-<recently read> �
-                 
-l.24 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1935.cmap>><<c1944.cmap>>
-./test.tex:24: Undefined control sequence.
-<recently read> �
-                 
-l.24 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:24: Undefined control sequence.
-<argument> 地址
-                 ：北京市海淀区清华大学东主楼 
-l.24 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:24: Undefined control sequence.
-<argument> 地址：北京市海淀
-                                   区清华大学东主楼 
-l.24 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
-<<c1978.cmap>>
-
-./test.tex:24: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \maketitle
-               
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1936.cmap>><<c1902.cmap>><<c1940.cmap>><<c1927.cmap>><<c1928.cmap>><<c1983.cmap>>
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 25.
 
-<<c1932.cmap>>
 
-./test.tex:25: Package CJK Error: Invalid character code.
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...问题指的是，对 $n$ 个不同的数$
-                                                  p_1 \sim p_n$，如何无�...
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-./test.tex:25: Missing $ inserted.
-<inserted text> 
-                $
-l.25 ...�题指的是，对 $n$ 个不同的数$p_
-                                                  1 \sim p_n$，如何无重...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-./test.tex:25: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...$，如何无重复无遗漏地生成这 $
-                                                  n$ 个数的所有全排�...
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-<<c1907.cmap>><<c1947.cmap>>
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...列的应用很广泛，然而复杂度往
-                                                  往过高，限制了其�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...的应用很广泛，然而复杂度往往
-                                                  过高，限制了其应�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1933.cmap>>
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...�对字典序法，递增进位制法，�
-                                                  �减 进位制法和邻位...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1926.cmap>>
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...四种全排列经典算法的研究基础
-                                                  上，优化了邻位对�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1908.cmap>>
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...�基础上，优化了邻位对换法和�
-                                                  �减进位制数法，提�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...了两 种算法的运行效率，同时�
-                                                  �过实验对四种经典�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1931.cmap>>
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...�优化后的算法进行了综合比较�
-                                                  �对相关算法的进一�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:25: Undefined control sequence.
-<recently read> �
-                 
-l.25 ...了综合比较。对相关算法的进一
-                                                  步改进 和新算法的�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1941.cmap>>
-Runaway argument?
-./test.tex:26: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.26 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./test.tex:26: Missing $ inserted.
-<inserted text> 
-                $
-l.26 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-
-Underfull \hbox (badness 4859) in paragraph at lines 25--26
-[]\C19/song/m/n/10.53937/75 | \C19/song/m/n/10.53937/30 � \C19/song/m/n/10.53937/10 � \C19/song/m/n/10.53937/75 ^^? \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/15 x \C19/song/m/n/10.53937/76 = \C19/song/m/n/10.53937/12 � \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/78 � \C19/song/m/n/10.53937/18 � \C19/song/m/n/10.53937/09 p \C19/song/m/n/10.53937/77 ^^M \C19/song/m/n/10.53937/03 � \C19/song/m/n/10.53937/18 �
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 25--26
-\C19/song/m/n/10.53937/83 ^^_ \C19/song/m/n/10.53937/09 � \C19/song/m/n/10.53937/35 � $\OML/cmm/m/it/10.53937 n$ \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/32 ^^Q \C19/song/m/n/10.53937/42 ^^^ \C19/song/m/n/10.53937/75 � \C19/song/m/n/10.53937/09 � \C19/song/m/n/10.53937/19 � \C19/song/m/n/10.53937/76 J\OT1/cmr/m/n/10.53937 p$[] \OMS/cmsy/m/n/10.53937 ^^X \OML/cmm/m/it/10.53937 p[]$\C19/song/m/n/10.53937/83 ^^_ \C19/song/m/n/10.53937/09 �
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
  []
 
+[1
 
-Underfull \hbox (badness 6978) in paragraph at lines 25--26
-\C19/song/m/n/10.53937/28 � \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/16 } \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/78 v \C19/song/m/n/10.53937/10 � \C19/song/m/n/10.53937/27 F \C19/song/m/n/10.53937/76 L \C19/song/m/n/10.53937/24 � \C19/song/m/n/10.53937/01 V \C19/song/m/n/10.53937/76 q \C19/song/m/n/10.53937/12 ^^H \C19/song/m/n/10.53937/21 y \C19/song/m/n/10.53937/77 ^^G \C19/song/m/n/10.53937/23 � \C19/song/m/n/10.53937/06 �
- []
-
-
-Overfull \hbox (529.00554pt too wide) in paragraph at lines 25--26
-\C19/song/m/n/10.53937/77 �\OT1/cmr/m/n/10.53937 n$[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$ 
- []
-
-./test.tex:31: Undefined control sequence.
-<argument> ...me {\CTEXthesection \quad }{} 前言
-                                                   
-l.31 \section{ 前言 }
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:31: Undefined control sequence.
-<argument>  前言
-                   
-l.31 \section{ 前言 }
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<<c1937.cmap>>
-Runaway argument?
-./test.tex:33: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.33 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-./test.tex:36: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 ...�成是指无重复无遗漏的列举出 1
-                                                   到 n 的所有排列。�...
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...�漏的列举出 1 到 n 的所有排列�
-                                                  �对于全排列生成的�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...��历史，1956年，C. Tompkins 写了一
-                                                  篇论文介绍了一些�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...C. Tompkins 写了一篇论文介绍了一
-                                                  些用全排列生成算�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...s1956Machine}。由于其算法的复杂�
-                                                  �和多样 性已经成为...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...法则中的应用}，求出栈顺序等�
-                                                  �全排列生成问题经�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<argument> 吴素萍2008全排列�
-                                   �归算法在算法教学中的重要性,...
-l.36 ...学中的重要性,Dijkstra1979discipline}
-                                                  ）。针对全排列的�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<argument> ...�算法在算法教学中的重要�
-                                                  �,Dijkstra1979discipline
-l.36 ...学中的重要性,Dijkstra1979discipline}
-                                                  ）。针对全排列的�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation '吴素萍2008全排列�归算法在算法教学中的重要�' on page 2 undefined on input line 36.
-
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-Missing character: There is no � in font cmbx10!
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...�的重要性,Dijkstra1979discipline}）�
-                                                  �针对全排列的生成�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./test.tex:36: Undefined control sequence.
-<recently read> �
-                 
-l.36 ...�有字典序法，递增进位制法，�
-                                                  �减进位制法， 邻位...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Runaway argument?
-./test.tex:37: Paragraph ended before \CJK@XX was complete.
-<to be read again> 
-                   \par 
-l.37 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./test.tex:38: Undefined control sequence.
-<recently read> �
-                 
-l.38 ...的前四种算法进行改进和实 现�
-                                                  �本文的工作如下：\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-
-./test.tex:40: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...��个全排列生成算法的基本原理;
-                                                  
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-./test.tex:41: Undefined control sequence.
-<recently read> �
-                 
-l.41   \item 优化改进了邻位对换法和�
-                                                �减进位制法， 优化�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./test.tex:41: Package CJK Error: Invalid character code.
-
-See the CJK package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 ...�均比原算法的效率提高了接近 5
-                                                  0\% ;
-The second byte of the CJK code is out of range.
-Do you use the right encoding scheme?
-
-[2
 
 ]
-./test.tex:42: Undefined control sequence.
-<recently read> �
-                 
-l.42 ...�排列生成算法和改进后的算法�
-                                                  �
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+LaTeX Font Info:    Font shape `TU/STSong(0)/m/sl' in size <10.53937> not available
+(Font)              Font shape `TU/STSong(0)/m/it' tried instead on input line 78.
+ [2]
+Underfull \vbox (badness 3590) has occurred while \output is active []
 
-./test.tex:43: Improper alphabetic constant.
-<to be read again> 
-                   \end 
-l.43 \end
-         {itemize}
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
 
-./test.tex:43: Missing = inserted for \ifnum.
-<to be read again> 
-                   \end< 
-l.43 \end
-         {itemize}
-I was expecting to see `<', `=', or `>'. Didn't.
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|\TU/lmr/m/n/10.53937 5555455554555545555355554555545555455553
+ []
 
-./test.tex:43: Missing number, treated as zero.
-<to be read again> 
-                   \end< 
-l.43 \end
-         {itemize}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
 
-./test.tex:43: Improper alphabetic constant.
-<to be read again> 
-                   \end 
-l.43 \end
-         {itemize}
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\TU/lmr/m/n/10.53937 5555455554555545555255554555545555455553
+ []
 
-./test.tex:43: Missing = inserted for \ifnum.
-<to be read again> 
-                   \end> 
-l.43 \end
-         {itemize}
-I was expecting to see `<', `=', or `>'. Didn't.
+[3]
+Missing character: There is no 𝑎 in font cmmi10!
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+[]\TU/STSong(0)/m/n/10.53937 以 \TU/lmr/m/n/10.53937 1,2,3,4 \TU/STSong(0)/m/n/10.53937 的 全 排 列 举
+ []
 
-./test.tex:43: Missing number, treated as zero.
-<to be read again> 
-                   \end> 
-l.43 \end
-         {itemize}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
 
-./test.tex:43: Improper alphabetic constant.
-<to be read again> 
-                   \end 
-l.43 \end
-         {itemize}
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/STSong(0)/m/n/10.53937 例，|  其 全 排 列 生 成 过 程 如 下：|
+ []
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+Overfull \hbox (2.75647pt too wide) in paragraph at lines 151--152
+\OT1/cmr/m/n/10.53937 1234[]1243[]1423[]4123[]1324[]1423[][][]4321$\TU/STSong(0)/m/n/10.53937 。|
+ []
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+File: 1.png Graphic file (type QTm)
+<use  "1.png" > [5]
+File: 2.png Graphic file (type QTm)
+ <use  "2.png" >
+File: 3.png Graphic file (type QTm)
+ <use  "3.png" > [6] [7
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+] (/Users/xuedi/Documents/GitHub/Permutation/project 1/.texpadtmp/test.aux)
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41063pt have occurred.
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+Package logreq Info: Writing requests to 'test.run.xml'.
+\openout1 = `test.run.xml'.
 
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./test.tex:43: Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.43 \end
-         {itemize}
-(That makes 100 errors; please try again.) 
+ ) 
 Here is how much of TeX's memory you used:
- 20707 strings out of 492995
- 392851 string characters out of 6132705
- 786888 words of memory out of 5000000
- 23872 multiletter control sequences out of 15000+600000
- 43858 words of font info for 162 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 51i,13n,56p,10426b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27235 strings out of 493005
+ 549926 string characters out of 6134597
+ 943875 words of memory out of 5000000
+ 30950 multiletter control sequences out of 15000+600000
+ 10109 words of font info for 64 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,13n,67p,10426b,4382s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-./test.tex:43:  ==> Fatal error occurred, no output PDF file produced!
+Output written on /Users/xuedi/Documents/GitHub/Permutation/project 1/.texpadtmp/test.pdf (7 pages).
