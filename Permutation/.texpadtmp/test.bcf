@@ -2143,11 +2143,11 @@
     <bcf:datasource type="file" datatype="bibtex">sample.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Tompkins1956Machine</bcf:citekey>
-    <bcf:citekey order="2">chenweidong</bcf:citekey>
-    <bcf:citekey order="3">李模刚2010全排列生成算法在克莱姆法则中的应用</bcf:citekey>
-    <bcf:citekey order="4">吴素萍2008全排列递归算法在算法教学中的重要性</bcf:citekey>
-    <bcf:citekey order="4">Dijkstra1979discipline</bcf:citekey>
+    <bcf:citekey order="1">卢开澄2006组合数学</bcf:citekey>
+    <bcf:citekey order="2">李模刚2010全排列生成算法在克莱姆法则中的应用</bcf:citekey>
+    <bcf:citekey order="3">Maccallum1977Surveyor</bcf:citekey>
+    <bcf:citekey order="4">Sedgewick1977Permutation</bcf:citekey>
+    <bcf:citekey order="5">Adel1962An</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

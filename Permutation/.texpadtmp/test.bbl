@@ -19,67 +19,105 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
-    \entry{Dijkstra1979discipline}{article}{}
-      \name{author}{1}{}{%
-        {{hash=44813d9969c3b392da8526eced3f7470}{%
-           family={Dijkstra},
-           familyi={D\bibinitperiod},
-           given={Edsger\bibnamedelima Wybe},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+    \entry{Adel1962An}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2d01d25a07e6c0d155e1d1f99dbaed8d}{%
+           family={AdelʹSon-VelʹSkiĭ},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={G.\bibnamedelimi M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cad82a307238f9ae48fd71f90c3c9daa}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \strng{namehash}{44813d9969c3b392da8526eced3f7470}
-      \strng{fullhash}{44813d9969c3b392da8526eced3f7470}
-      \strng{authornamehash}{44813d9969c3b392da8526eced3f7470}
-      \strng{authorfullhash}{44813d9969c3b392da8526eced3f7470}
-      \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \list{publisher}{1}{%
+        {Libraries Unlimited,}%
+      }
+      \strng{namehash}{b2a3fdf67807bab789556e812902072e}
+      \strng{fullhash}{b2a3fdf67807bab789556e812902072e}
+      \strng{authornamehash}{b2a3fdf67807bab789556e812902072e}
+      \strng{authorfullhash}{b2a3fdf67807bab789556e812902072e}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{discipline of programming}
-      \field{year}{1979}
+      \field{title}{An algorithm for the organization of information}
+      \field{year}{1962}
+      \field{pages}{4671\bibrangedash 4678}
+      \range{pages}{8}
     \endentry
-    \entry{Tompkins1956Machine}{article}{}
+    \entry{Maccallum1977Surveyor}{article}{}
       \name{author}{1}{}{%
-        {{hash=48045bf06d2213dcaed01016199508ae}{%
-           family={Tompkins},
-           familyi={T\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
+        {{hash=768183b38a095172336b98b6ae25dcf8}{%
+           family={Maccallum},
+           familyi={M\bibinitperiod},
+           given={I.\bibnamedelimi R},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
-      \strng{namehash}{48045bf06d2213dcaed01016199508ae}
-      \strng{fullhash}{48045bf06d2213dcaed01016199508ae}
-      \strng{authornamehash}{48045bf06d2213dcaed01016199508ae}
-      \strng{authorfullhash}{48045bf06d2213dcaed01016199508ae}
-      \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \strng{namehash}{768183b38a095172336b98b6ae25dcf8}
+      \strng{fullhash}{768183b38a095172336b98b6ae25dcf8}
+      \strng{authornamehash}{768183b38a095172336b98b6ae25dcf8}
+      \strng{authorfullhash}{768183b38a095172336b98b6ae25dcf8}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of Symposia in Applied Mathematics, vol. VI, Numerical Analysis, McGraw-Hill}
-      \field{title}{Machine attacks on problems whose variables are permutations}
-      \field{year}{1956}
-      \field{pages}{195\bibrangedash 211}
-      \range{pages}{17}
-    \endentry
-    \entry{吴素萍2008全排列递归算法在算法教学中的重要性}{article}{}
-      \name{author}{1}{}{%
-        {{hash=55e709c340973fc07e1f54e012cdeb42}{%
-           family={吴素萍},
-           familyi={吴\bibinitperiod}}}%
-      }
-      \strng{namehash}{55e709c340973fc07e1f54e012cdeb42}
-      \strng{fullhash}{55e709c340973fc07e1f54e012cdeb42}
-      \strng{authornamehash}{55e709c340973fc07e1f54e012cdeb42}
-      \strng{authorfullhash}{55e709c340973fc07e1f54e012cdeb42}
-      \field{sortinit}{吴}
-      \field{sortinithash}{8e87dc69f25fd8cafd751074c5421520}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{现代计算机:专业版}
-      \field{number}{12}
-      \field{title}{全排列递归算法在算法教学中的重要性}
-      \field{year}{2008}
-      \field{pages}{119\bibrangedash 120}
+      \field{journaltitle}{Acm Computing Surveys}
+      \field{number}{4}
+      \field{title}{Surveyor's Forum: A Forgotten Generation of Permutations}
+      \field{volume}{9}
+      \field{year}{1977}
+      \field{pages}{316\bibrangedash 317}
       \range{pages}{2}
+    \endentry
+    \entry{Sedgewick1977Permutation}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6a9c16ef79ae932cd7e8bc985da5a937}{%
+           family={Sedgewick},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a9c16ef79ae932cd7e8bc985da5a937}
+      \strng{fullhash}{6a9c16ef79ae932cd7e8bc985da5a937}
+      \strng{authornamehash}{6a9c16ef79ae932cd7e8bc985da5a937}
+      \strng{authorfullhash}{6a9c16ef79ae932cd7e8bc985da5a937}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acm Computing Surveys}
+      \field{number}{2}
+      \field{title}{Permutation Generation Methods}
+      \field{volume}{9}
+      \field{year}{1977}
+      \field{pages}{137\bibrangedash 164}
+      \range{pages}{28}
+    \endentry
+    \entry{卢开澄2006组合数学}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fc22085eb34c1768e1781271ea95d957}{%
+           family={卢开澄},
+           familyi={卢\bibinitperiod}}}%
+        {{hash=081313f81f8f2b12e9a17ac29add3316}{%
+           family={卢华明},
+           familyi={卢\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {清华大学出版社}%
+      }
+      \strng{namehash}{8ca3c4f39ec2ae960c7b8b42456f67ed}
+      \strng{fullhash}{8ca3c4f39ec2ae960c7b8b42456f67ed}
+      \strng{authornamehash}{8ca3c4f39ec2ae960c7b8b42456f67ed}
+      \strng{authorfullhash}{8ca3c4f39ec2ae960c7b8b42456f67ed}
+      \field{sortinit}{卢}
+      \field{sortinithash}{f3401ced2abf663d003483f207df2f01}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{组合数学.第4版}
+      \field{year}{2006}
     \endentry
     \entry{李模刚2010全排列生成算法在克莱姆法则中的应用}{article}{}
       \name{author}{1}{}{%
@@ -101,29 +139,6 @@
       \field{year}{2010}
       \field{pages}{13\bibrangedash 15}
       \range{pages}{3}
-    \endentry
-    \entry{chenweidong}{article}{}
-      \name{author}{1}{}{%
-        {{hash=70c7237ebe1af698ab798712cfb69946}{%
-           family={陈卫东},
-           familyi={陈\bibinitperiod},
-           given={鲍苏苏},
-           giveni={鲍\bibinitperiod}}}%
-      }
-      \strng{namehash}{70c7237ebe1af698ab798712cfb69946}
-      \strng{fullhash}{70c7237ebe1af698ab798712cfb69946}
-      \strng{authornamehash}{70c7237ebe1af698ab798712cfb69946}
-      \strng{authorfullhash}{70c7237ebe1af698ab798712cfb69946}
-      \field{sortinit}{陈}
-      \field{sortinithash}{f97a30f7cde1492ba692235ae4cf11ee}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{现代计算机:专业版}
-      \field{number}{8}
-      \field{title}{排序算法与全排列生成算法研究}
-      \field{year}{2007}
-      \field{pages}{4\bibrangedash 7}
-      \range{pages}{4}
     \endentry
   \endsortlist
 \endrefsection
